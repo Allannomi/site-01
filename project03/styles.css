@@ -1,0 +1,55 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 350px;
+    background-color: white;
+    padding: 15px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.minicontainer {
+    padding: 0px;
+    border-radius: 10px;
+    background-color: rgb(112, 238, 255);
+    padding-top: 5px;
+    padding-bottom: 45px;
+}
+
+.lis {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.labels{
+    margin-left: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: rgb(255, 115, 0);
+}
+
+a:visited {
+    color: purple;
+}
